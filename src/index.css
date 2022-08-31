@@ -117,3 +117,25 @@ body {
     font-size: 10.24px;
     padding: 5px 35px 0px 35px;
 }
+
+footer {
+    background-color: #161619;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 317px;
+    height: 64px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+footer > ul {
+    list-style: none;
+    display: flex;
+    padding: 0px;
+}
+
+footer > ul > li > a {
+    margin-right: 24px;
+    font-size: 25px;
+    color: #918E9B;;
+  }
