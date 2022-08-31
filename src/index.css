@@ -73,4 +73,25 @@ body {
     width: 115px;    
 }
 
+.about--section{
+    max-width: 317px;
+    background-color: #1A1B21;
+}
 
+.about--section > h2 {
+    font-size: 16px;
+    color: #FFFFFF;    
+    font-weight: 700;
+    line-height: 150%;
+    padding: 33px 35px 0px 35px;
+}
+
+.about--section > p {
+    margin: 0px;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #DCDCDC;
+    max-width: 247px;
+    padding: 5px 35px 0px 35px;
+}
