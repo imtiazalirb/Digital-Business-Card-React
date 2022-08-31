@@ -95,3 +95,25 @@ body {
     max-width: 247px;
     padding: 5px 35px 0px 35px;
 }
+
+.interest--section {
+    max-width: 317px;
+    background-color: #1A1B21;
+    border: none;
+    padding-bottom: 42px;
+}
+
+.interest--section > h2 {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+    padding: 17px 35px 0px 35px;
+}
+
+.interest--section > p {
+    margin: 0px;
+    color: #DCDCDC;
+    font-size: 10.24px;
+    padding: 5px 35px 0px 35px;
+}
