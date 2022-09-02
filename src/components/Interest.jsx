@@ -4,7 +4,7 @@ function Interest(){
     return(
         <div className="interest--section">
             <h2>Interest</h2>
-            <p>Automotive enthusiast. Techie. Internet fanatic. Travel geek. Cinephile. Audiophile. Diecase collector.</p>
+            <p>Automotive enthusiast. Techie. Internet fanatic. Travel geek. Cinephile. Audiophile. Diecast collector.</p>
         </div>
     )
 }
