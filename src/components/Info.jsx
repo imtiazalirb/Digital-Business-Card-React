@@ -11,7 +11,7 @@ function Info(){
             <h3>Computer Science Engineering</h3>
             <p>American International University-Bangladesh</p>
             <div className="contact-buttons">
-            <a href="https://google.com" className='email-button'><FontAwesomeIcon icon={faEnvelope} /> Email</a>
+            <a href="mailto: imtiazali4090@gmail.com" className='email-button'><FontAwesomeIcon icon={faEnvelope} /> Email</a>
             <a href="https://www.linkedin.com/in/imtiazalirb/" className='linkedin-button'><FontAwesomeIcon icon={faLinkedin} /> LinkedIn</a>
             </div>            
         </div>
