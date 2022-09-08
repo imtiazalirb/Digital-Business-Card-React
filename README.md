@@ -1,7 +1,7 @@
 
 # Digital Business Card
 
-Digital Business card using has been made with reactJS using vite tool. 
+Digital Business card has been made with reactJS using vite tool. 
 
 
 ## Demo
